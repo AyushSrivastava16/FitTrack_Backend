@@ -1,5 +1,6 @@
+gunicorn
 Flask
 opencv-python
 mediapipe
 numpy
-gunicorn
+
